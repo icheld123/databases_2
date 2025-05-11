@@ -10,7 +10,7 @@ All workshops are based on the development of a **book platform database**, insp
 
 ## Course Information
 
-- **Course:** Database Systems II  
+- **Course:** Databases II  
 - **Instructor:** Carlos Andrés Sierra Virguez  
 - **Institution:** Universidad Distrital Francisco José de Caldas 
 ---
