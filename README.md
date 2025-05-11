@@ -10,9 +10,6 @@ This repository contains the workshops and assignments for the course **Database
 ## Course Information
 
 - **Course:** Database Systems II  
-- **Instructor:** [Add instructor's name if desired]  
-- **Institution:** [Add university name if desired]  
-- **Semester:** [Add semester and year if desired]
 
 ---
 
