@@ -1,6 +1,7 @@
 # Databases II – Workshops Repository
 
 This repository contains the workshops and assignments for the course **Database Systems II**.
+All workshops are based on the development of a **book platform database**, inspired by the functionality and structure of platforms like **Bookmate**.
 
 ## Team Members
 
@@ -10,7 +11,8 @@ This repository contains the workshops and assignments for the course **Database
 ## Course Information
 
 - **Course:** Database Systems II  
-
+- **Instructor:** Carlos Andrés Sierra Virguez  
+- **Institution:** Universidad Distrital Francisco José de Caldas 
 ---
 
 ## Workshop 1 – Project Definition and Database Modeling
