@@ -2,12 +2,12 @@
 
 This repository contains the workshops and assignments for the course **Database Systems II**.
 
-## 👥 Team Members
+## Team Members
 
 - **Ichel Delgado Morales** – 20202020029  
 - **Andrés Felipe Salazar Malagón** – 20202020043
 
-## 📚 Course Information
+## Course Information
 
 - **Course:** Database Systems II  
 - **Instructor:** [Add instructor's name if desired]  
