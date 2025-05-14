@@ -1,10 +1,10 @@
-# 📚 Reading Platform Database – Inspired by Bookmate
+# Reading Platform Database – Inspired by Bookmate
 
 This repository contains the academic deliverables for a database development project focused on designing the data layer of a digital reading platform inspired by **Bookmate**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to design a normalized relational database to support the core functionalities of a reading platform, such as:
 
@@ -18,9 +18,9 @@ The database was developed based on detailed user stories, functional requiremen
 
 ---
 
-## 📁 Contents
+## Contents
 
-### 🎓 Academic Deliverables
+### Academic Deliverables
 
 | File | Description |
 |------|-------------|
@@ -31,7 +31,7 @@ The database was developed based on detailed user stories, functional requiremen
 | `images` | Relational model, Business Model Canva and Preliminary database-centered system architecture |
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - **Database design**: PostgreSQL (logical model only)
 - **Documentation**: LaTeX (IEEEtran class), Canva
@@ -39,14 +39,14 @@ The database was developed based on detailed user stories, functional requiremen
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Ichel Delgado M.** – Universidad Distrital Francisco José de Caldas  
 - **Andrés Salazar** – Universidad Distrital Francisco José de Caldas  
 
 ---
 
-## 📄 License
+## License
 
 This project is for academic purposes. All contents are © 2024 by their respective authors.
 
