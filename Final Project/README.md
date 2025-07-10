@@ -6,21 +6,29 @@ This project implements the backend database architecture for a digital reading 
 
 ## 📁 Project Structure
 
-├── docs/
-│ ├── paper_reading_platform.pdf # Final academic paper
-│ ├── report_reading_platform.pdf # Extended technical report
-│ ├── presentation_reading_platform.pdf # Slide presentation
-│ └── poster_reading_platform.pdf # Academic poster
-│
-├── src/
-│ ├── bookmate_tables.sql # Full PostgreSQL schema
-│ ├── countries.sql # SQL to populate 'country' table
-│ ├── script.py # Python script to populate PostgreSQL
-│ ├── data_to_mongo.py # Python script to populate MongoDB
-│ └── Generated data / libros_completo.json # Book content for MongoDB
-│
-├── README.md # This file
+docs/
 
+    paper_reading_platform.pdf — Final academic paper
+
+    report_reading_platform.pdf — Extended technical report
+
+    presentation_reading_platform.pdf — Slide presentation
+
+    poster_reading_platform.pdf — Academic poster
+
+src/
+
+    bookmate_tables.sql — Full PostgreSQL schema
+
+    countries.sql — SQL script to populate the country table
+
+    script.py — Python script to generate and insert data into PostgreSQL
+
+    data_to_mongo.py — Python script to insert content into MongoDB
+
+    libros_completo.json — JSON file with book/audiobook content for MongoDB
+
+README.md — Project overview and setup instructions
 
 ---
 
