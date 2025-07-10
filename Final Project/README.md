@@ -22,11 +22,14 @@ src/
 
     countries.sql — SQL script to populate the country table
 
+    generate_data_corrected.sql — SQL script to populate the rest of the tables
+
     script.py — Python script to generate and insert data into PostgreSQL
 
     data_to_mongo.py — Python script to insert content into MongoDB
 
     libros_completo.json — JSON file with book/audiobook content for MongoDB
+
 
 README.md — Project overview and setup instructions
 
